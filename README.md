@@ -8,6 +8,12 @@
 
 ## 1. Software utilizados
 
+
+
+O Software foi feito em **PHP** disponibilizado através do **XAMPP**, utilizando a IDE  **Visual Studio Code**
+
+
+
 - XAMPP 8.2.12 (PHP 8.2.12) para Windows  - [Download XAMPP](https://www.apachefriends.org/index.html)
 - IDE Visual Studio Code 1.85.1 para Windows - [Download Visual Studio Code](https://code.visualstudio.com/Download)
 

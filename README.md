@@ -1,8 +1,4 @@
-# CRUD
-
-
-
-[TOC]
+# CRUD v1
 
 
 
